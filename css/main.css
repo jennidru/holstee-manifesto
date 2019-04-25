@@ -1,0 +1,72 @@
+aside {
+	float: left;
+}
+
+section {
+	font-size: 24px;
+	margin: 0;
+	padding: 25px;
+	text-align: center;
+	width: 200px;
+}
+
+.box-sqr {
+	height: 200px;
+}
+
+.box-tall {
+	font-family: Verdana;
+	height: 450px;
+}
+
+.color-a {
+	background: #FDD7E4;
+}
+
+.color-b {
+	background: #FFC89B;
+}
+
+.color-c {
+	background: #76D6FF;
+	font-size: 28px;
+	line-height: 44px;
+}
+
+.font-a {
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.font-b {
+	font-family: 'Dosis', sans-serif;
+}
+
+.font-c {
+	font-family: 'Lobster', cursive;
+	font-size: 30px;
+}
+
+.font-d {
+	font-family: 'Dancing Script', cursive;
+	font-size: 28px;
+}
+
+.font-e {
+	font-family: 'Acme', sans-serif;
+}
+
+.font-f {
+	font-family: verdana;
+}
+
+h1, h2, h3, h4 {
+	margin: 11px;
+}
+
+.text-bigger {
+	font-size: 40px;
+}
+
+.text-biggest {
+	font-size: 64px;
+}
